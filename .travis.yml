@@ -33,7 +33,7 @@ after_success:
 # Only watch the development branch
 branches:
  only:
-   - development
+   - create-remote-plus-fetch-travis
 
 # Notify development list when needed
 notifications:
